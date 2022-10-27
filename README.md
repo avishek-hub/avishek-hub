@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @avishek-hub
 - 👀 I’m interested in startups and coding.
 - 🌱 I’m currently learning Mumbai 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me avishekhaldar2010@gmail.com
 
 <!---
